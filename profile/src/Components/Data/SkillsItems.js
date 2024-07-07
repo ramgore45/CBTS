@@ -1,0 +1,47 @@
+
+export const SkillsItems =[ 
+    {
+        id:"1",
+        title:"HTML",
+        img:"https://noeticforce.com/wp-content/uploads/2019/02/HTML5-tutorials.png"
+    },
+    {
+        id:"2",
+        title:"CSS",
+        img:"https://www.tiagofsanchez.com/static/6f8fd8ca25c7a0d0d8b1efa4cb538bfd/5d2c5/css.png"
+    },
+    {
+        id:"3",
+        title:"Javascript",
+        img:"https://www.annisa.world/images/javascript.png"
+    },
+    {
+        id:"4",
+        title:"React.Js",
+        img:"https://oneteamsolutions.in/blogoneteam/wp-content/uploads/2020/05/REACT-JS-KOCHI.png"
+    },
+    {
+        id:"5",
+        title:"TailwindCSS",
+        img:"https://btihen.me/post_ruby_rails/rails_6_1_tailwind_2_0_alpinejs/featured.png"
+    },
+    {
+        id:"6",
+        title:"Node.JS",
+        img:"https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png"
+    },{
+        id:"7",
+        title:"Express.Js",
+        img:"https://jrobi133.github.io/CSC-Portfolio-week6/assets/images/js.png"
+    },
+    {
+        id:"8",
+        title:"MongoDB",
+        img:"https://miro.medium.com/v2/resize:fit:256/1*XR69xeq43LgKB0T_LjZqwQ.png"
+    },
+    {
+        id:"9",
+        title:"Postman",
+        img:"https://www.gartner.com/pi/vendorimages/postman_full-life-cycle-api-management_1633960356020.png"
+    },
+]
